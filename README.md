@@ -1,0 +1,2 @@
+# globalisation
+about world globalisation
